@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(133, 61, 174);
+}
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+}
+article {
+  flex:2 ;
+  overflow-y: auto;
+}
+aside {
+  flex: 1 ;
+}
+img{
+  border: ;
+}
+header {
+  background-color: rgb(143, 120, 156);
+  border-radius: 20px;
+}
+main{
+  background-color: rgb(143, 120, 156);
+  border-radius: 20px;
+}

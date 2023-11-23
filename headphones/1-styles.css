@@ -1,0 +1,50 @@
+body{
+  background-image: url('resources/background.jpg');
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+header{
+  display: flex;
+  
+}
+img{
+  margin-top: 15px;
+  margin-left: 10%;
+  width: 5cm;
+  height: 1cm;
+}
+nav{
+  display: flex;
+  margin-left: 45%;
+}
+nav a{
+  text-decoration: none;
+  color: aliceblue;
+  margin: 10%;
+  font-size: smaller;
+}
+.sec1{
+  margin-top: 18%;
+
+}
+.title1{
+  margin-left:30%;
+  color: aliceblue;
+}
+.title2{
+  margin-left:35%;
+  color: aliceblue;
+}
+.button1{
+  font-size: smaller;
+  border-radius: 30px;
+  margin-left:44%;
+  color: aliceblue;
+  padding: 1%;
+  background-color: rgb(203, 49, 80);
+}
+.para1{
+  margin-left:26%;
+  margin-right: 26%;
+  color: aliceblue;
+  text-align: center;
+}

@@ -1,0 +1,157 @@
+body{
+  margin: 0%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.div0{
+  background-image: url('ressources/Object.png');
+  background-repeat: no-repeat;
+  
+}
+header{
+  display: flex;
+  
+}
+.logo{
+  margin-top: 10%;
+  margin-left: 60%;
+}
+.a1{
+  margin-left: 10%;
+  color: antiquewhite;
+}
+.div1{
+  display: flex;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 60%;
+  text-decoration: none;
+  padding-left: 2%;
+  
+  
+}
+.tit1{
+  margin-bottom: 0%;
+  margin-left: 22%;
+  margin-top: 10%;
+  font-size: 700%;
+  color: aliceblue;
+}
+.div2{
+  margin-top: 0%;
+  font-size: x-large;
+  margin-left: 40%;
+}
+i{
+  margin-left: 3%;
+  font-weight: 400;
+  color: aliceblue;
+}
+button{
+  margin-top: 3%;
+  margin-left: 45%;
+  background-color: rgb(102, 26, 102);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px; 
+  cursor: pointer;  
+  font-size: medium;
+}
+b{
+  color: rgb(102, 26, 102);;
+}
+.tit2{
+  
+  font-size: large;
+  margin-top: 15%;
+  margin-left: 44%;
+  color: antiquewhite;
+}
+.div3{
+  display: flex;
+  margin-left: 5%;
+  
+}
+
+.div4{
+  margin-left: 10%;
+}
+
+.tit3{
+  margin-left: 35%;
+  color: aliceblue;
+}
+.section2{
+  background-color: rgb(102, 26, 102);
+  padding: 10%
+}
+.div5{
+  display: flex;
+}
+.i2{
+  margin-left: 10%;
+}
+.div6{
+  margin-left: 10%;
+  color: aliceblue;
+}
+.section3{
+  
+}
+.div7{
+  display: flex;
+  margin-left: 10%;
+}
+.tit4{
+  margin-left: 44%;
+  color: rgb(0, 0, 0);
+}
+.i3{
+  margin: 10%;
+   width: 10%;
+}
+.section4{
+  background-color: rgb(88, 84, 92);
+}
+.div8{
+  display: flex;
+  margin-left: 25%;
+}
+.tit5{
+  margin-top: 0%;
+  margin-left: 45%;
+  color: aliceblue;
+}
+.div9{
+  margin-left: 10%;
+}
+.tit6{
+  margin-left: 48%;
+  font-size: xx-large;
+}
+.div10{
+  margin-left: 20%;
+  display: flex;
+}
+.div11{
+  margin-left: 10%;
+}
+.div12{
+  background-color: rgb(114, 102, 102) ;
+}
+.div13{
+  display: flex;
+}
+.tit7{
+  margin-top:  6%;
+  margin-left:  10%;
+  margin-bottom: 5%;
+}
+.tit8{
+  margin-left: 40%;
+}
